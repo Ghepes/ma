@@ -1,0 +1,50 @@
+{
+    "translations": {
+      "Language": "Lingua",
+      "Home": {
+        "name": "Home",
+        "company_name": "Nome azienda *",
+        "text1": "Soluzioni migliori per il tuo business",
+        "text2": "Scoprire il valore dei tuoi dipendenti attraverso una tecnologia innovativa",
+        "button_text": "Inizia",
+        "Key_Features": {
+          "name": "Caratteristiche principali",
+          "para1": "Il modo in cui la tua azienda gestisce le risorse umane può essere altamente individuale, ma ci sono alcune funzionalità e funzionalità chiave che dovresti cercare in qualsiasi soluzione per",
+          "keys": {
+            "1": "Gestione delle informazioni sui dipendenti",
+            "2": "Reclutamento / ATS (sistema di monitoraggio dei candidati)",
+            "3": "Home0"
+          },
+          "para2": "Home1",
+          "button_text": "Home2",
+          "card1": {
+            "title": "Home3",
+            "body": "Home4"
+          },
+          "card2": {
+            "title": "Home5",
+            "body": "Home6"
+          },
+          "card3": {
+            "title": "Home7",
+            "body": "Home8"
+          },
+          "card4": {
+            "title": "Home9",
+            "body": "Nome azienda0"
+          }
+        },
+        "text3": "Nome azienda1",
+        "text4": "Nome azienda2",
+        "text5": "Nome azienda3",
+        "section1": {
+          "title": "Nome azienda4",
+          "body": "Nome azienda5"
+        },
+        "section2": {
+          "title": "Nome azienda6",
+          "body": "Nome azienda7"
+        }
+      }
+    }
+  }

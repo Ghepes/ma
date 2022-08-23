@@ -1,0 +1,50 @@
+{
+    "translations": {
+      "Language": "Idioma",
+      "Home": {
+        "name": "Inicio",
+        "company_name": "Nombre de la empresa",
+        "text1": "Mejores soluciones para su negocio",
+        "text2": "Descubriendo el valor de sus empleados a través de tecnología innovadora",
+        "button_text": "Comenzar",
+        "Key_Features": {
+          "name": "Características clave",
+          "para1": "La forma en que su empresa gestiona los recursos humanos puede ser muy individual, pero hay ciertas capacidades y características clave que debe buscar en cualquier solución para",
+          "keys": {
+            "1": "Gestión de la información de los empleados",
+            "2": "Reclutamiento / ATS (sistema de seguimiento de candidatos)",
+            "3": "Inicio0"
+          },
+          "para2": "Inicio1",
+          "button_text": "Inicio2",
+          "card1": {
+            "title": "Inicio3",
+            "body": "Inicio4"
+          },
+          "card2": {
+            "title": "Inicio5",
+            "body": "Inicio6"
+          },
+          "card3": {
+            "title": "Inicio7",
+            "body": "Inicio8"
+          },
+          "card4": {
+            "title": "Inicio9",
+            "body": "Nombre de la empresa0"
+          }
+        },
+        "text3": "Nombre de la empresa1",
+        "text4": "Nombre de la empresa2",
+        "text5": "Nombre de la empresa3",
+        "section1": {
+          "title": "Nombre de la empresa4",
+          "body": "Nombre de la empresa5"
+        },
+        "section2": {
+          "title": "Nombre de la empresa6",
+          "body": "Nombre de la empresa7"
+        }
+      }
+    }
+  }

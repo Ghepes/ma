@@ -1,0 +1,7 @@
+div#v-pills-tab {
+    float: left;
+    overflow: hidden;
+    width: 12%;
+    text-align: center;
+    margin-right: 20px;
+}

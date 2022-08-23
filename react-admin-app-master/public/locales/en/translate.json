@@ -1,0 +1,548 @@
+{
+    "translations": {
+        "Language":"Language",
+        "Home":{
+            "name":"Home",
+            "company_name":"Company Name",
+            "text1":"Better Solutions For Your Business",
+            "text2":"Uncovering the value of your employees through innovative technology",
+            "button_text":"Get Started",
+            "Key_Features":{
+                "name":"Key Features",
+                "para1":"How your company manages HR can be highly individual, but there are certain key capabilities and features you should look for in any solution to",
+                "keys":{
+                    "1":"Management of employee information",
+                    "2":"Recruiting/ATS (applicant tracking system)",
+                    "3":"Compensation management/payroll"
+                },
+                "para2":"make sure your pick can grow and change along with your organization's needs.",
+                "button_text":"Learn More",
+                "card1":{
+                    "title":"Customizable interface",
+                    "body":"It easy for HR professionals to modify builtin processes and workflows to meet their organization’s unique HR requirements."
+                },
+                "card2":{
+                    "title":"Performance management",
+                    "body":"that collects, stores, and displays up-to-date, consistent information about employee performance, functional managers can finally break up with spreadsheets"
+                },
+                "card3":{
+                    "title":"Automated calculations",
+                    "body":"where calculations are handled using complicated formulas, processes are exposed to the risk of inaccurate calculations, payroll, and more."
+                },
+                "card4":{
+                    "title":"Dynamic reports",
+                    "body":"need to come with a builtin reporting tool that will empower organizations to turn data into compelling stories."
+                }
+            },
+            "text3":"While each",
+            "text4":"HRIS solution offers slightly different capabilities and features",
+            "text5":"They all have many functionalities in common, including the following:",
+            "section1":{
+                "title":"Applicant Tracking (AT).",
+                "body":"Includes the ability to manage job postings, apps, and even onboarding of new employees."
+            },
+            "section2":{
+                "title":"Benefits Administration.",
+                "body":"Is critical for most HR operations and what HRMS software makers offer here can vary from simply managing employee enrollment all the way to offering specific benefit plans to customers."
+            },
+            "section3":{
+                "title":"Scheduling and Shift Planning",
+                "body":"Is often dedicated tools though the capability can show up as part of larger HRMS platforms or those that focus on businesses where this capability is important."
+            },
+            "benifit_section":{
+                "title":"Benefits of our HRIS",
+                "para1":"An effective HRIS provides information on just about anything a company needs to track and analyze data about employees, former employees, and applicants, from their first application, through their tenure on the job, to resignation or retirement. It’s a one-stop-shop for individuals, employees, managers and hiring and recruiting professionals to find information when they need it.",
+                "para2":"As such, a comprehensive HRIS enables a company to more effectively project and budget its HR costs, and it can improve efficiency when it comes to decision making. Because all information and analysis are in one place, and because of integrated analysis and reporting capabilities, an HRIS makes it easy to find and analyze all available HR-related data, thereby facilitating an organization’s ability to make decisions about hiring, firing, pay, promotions, headcount, turnover and retention rates, and other personnel decisions."
+            },
+            "action_section":{
+                "para":"If you need help using HRM please contact us. Support phone numbers are available for customers on the Enterprise service plan. Contact Company Name Support to request a support number for your region.",
+                "button_text":"Call To Action"
+            },
+            "contact_section":{
+                "name":"Contact",
+                "para":"The goal of every contact us page is to convert by clearly and effectively presenting the method(s) of getting in touch with a company as quickly as possible.",
+                "form":{
+                    "left":{
+                        "label1":"Location",
+                        "label2":"Email",
+                        "label3":"Call"
+                    },
+                    "right":{
+                        "name":"Your Name",
+                        "email":"Your Email",
+                        "subject":"Subject",
+                        "message":"Message"
+                    },
+                    "button_text":"Send Message"
+                }
+            }
+
+        },
+        "Account":{
+            "Login":"Login",
+            "Help":"Help",
+            "Logout":"Logout"
+        },
+        "buttons":{
+            "Add":"Add",
+            "Delete":"Delete",
+            "Edit":"Edit",
+            "Submit":"Submit",
+            "Reset":"Reset",
+            "Cancel":"Cancel",
+            "Save":"Save"
+        },
+        "Side_Nav":{
+            "Dashboard":"Dashboard",
+            "Admin":{
+                "name":"Admin",
+                "Companies":"Companies",
+                "Roles":"Roles",
+                "Privilege":"Privilege"
+            },
+            "Manage_Users":{
+                "name":"Manage Users",
+                "Users":"Users"
+            },
+            "Basic_Data":{
+                "name":"Basic Data",
+                "Nationality": "Nationality",
+                "Salary_Config":"Salary Config",
+                "Leave_Type": "Leave Type",
+                "Education_Levels":"Education Levels",
+                "Employment_Types":"Employment Types",
+                "Departments": "Departments",
+                "Insurance_Providers":"Insurance Providers",
+                "Job_Titles": "Job Titles",
+                "Holiday":"Holiday",
+                "Time_Schedules":"Time Schedules",
+                "Branch":"Branch",
+                "Appraisal_Questions":"Appraisal Questions"
+            },
+            "Employee":{
+                "name":"Employee",
+                "Employee_List":"Employee List",
+                "Employee_Profile":"Employee Profile"
+            },
+            "Self_Service":{
+                "name":"Self Service",
+                "Entry_Request":"Entry Request",
+                "Approve_Entry_Request": "Approve Entry Request"
+            },
+            "Leave":{
+                "name":"Leave",
+                "Leave_List":"Leave List",
+                "New_Leave":"New Leave",
+                "Approve_Leave":"Approve Leave"
+            },
+            "Loan":{
+                "name":"Loan",
+                "Loan_List":"Loan List",
+                "New_Loan":"New Loan",
+                "Approve_Loan":"Approve Loan"
+            },
+            "Payroll":{
+                "name":"Payroll",
+                "Salary_Process": "Salary Process",
+                "Salary_List": "Salary List"
+            },
+            "Reports":{
+                "name":"Reports",
+                "Employee":"Employee Report",
+                "Company" : "Company Report",
+                "Attendance":"Attendance",
+                "Leave" : "Leave Report",
+                "Loan" : "Loan Report",
+                "Salary": "Salary Report"
+            },
+            "Help":{
+                "name":"Help"
+            },
+            "Translation":{
+                "name":"Translation"
+            }
+        },
+        "dashboard":{
+            "Employee": "Employee",
+            "Present" : "Present",
+            "Leave" : "Leave",
+            "Absent": "Absent",
+            "Holiday": "Holiday",
+            "Total_Salary": "Total Salary"
+        },
+        "Admin":{
+            "Companies":{
+                "name":"Companies",
+                "table_headers":{
+                    "Code":"Code",
+                    "Name":"Name",
+                    "Email":"Email",
+                    "Subscription_Fee":"Subscription Fee",
+                    "Expiry_Date":"Expiry Date",
+                    "Status": "Status",
+                    "Action": "Action"
+                },
+                "Create":{
+                    "header":"Create New Company",
+                    "Company_Code":"Company Code",
+                    "Company_Name":"Company Name",
+                    "Email":"Email",
+                    "Subscription":{
+                        "name":"Subscription",
+                        "Description":"Description",
+                        "Price":"Price",
+                        "Expiry_Date":"Expiry Date"
+                    },
+                    "User":{
+                        "name":"Create a new User",
+                        "Select_Title":"Select Title",
+                        "First_Name":"First Name",
+                        "Last_Name":"Last Name",
+                        "Email":"Username (Email)",
+                        "Phone":"Phone",
+                        "Select_Role":"Select Role",
+                        "Select_Gender":"Select Gender",
+                        "Password":"Password",
+                        "Confirm_Password":"Confirm Password"
+                    }
+                }
+            },
+            "Roles":{
+                "name":"Job Titles",
+                "table_headers":{
+                    "Name":"Name",
+                    "Description":"Description",
+                    "Status":"Status",
+                    "Action":"Action"
+                },
+                "Create":{
+                    "header":"Create a new Job Title",
+                    "Name":"Name",
+                    "Description":"Description"
+                },
+                "Edit":{
+                    "header":"Edit Job Title",
+                    "Name":"Name",
+                    "Description":"Description"
+                }
+            },
+            "Privilege":{
+                "name":"Privilege",
+                "card_header":"Privileges of Role",
+                "select_label":"Select Role",
+                "feature":"feature",
+                "add":"add",
+                "view":"view",
+                "all":"all",
+                "edit":"edit",
+                "delete":"delete"
+            }
+        },
+        "Manage_Users":{
+            "Users":{
+                "name":"Users",
+                "table_headers":{
+                    "User_Role":"User Role",
+                    "Role_Name":"Role Name",
+                    "Full_Name":"Full Name",
+                    "Email":"Email",
+                    "Contact":"Contact",
+                    "Status":"Status"
+                },
+                "Create":{
+                    "header":"Create a new User",
+                    "User_ID":"User ID",
+                    "ID_placeholder":"Enter ID for new user",
+                    "Check":"Check",
+                    "Password":"Password",
+                    "Password_Placeholder":"Enter password for new user",
+                    "Select_Title":"Select Title",
+                    "First_Name":"First Name",
+                    "First_Name_Placeholder":"Enter First name",
+                    "Last_Name":"Last Name",
+                    "Last_Name_Placeholder":"Enter Last Name",
+                    "Email":"Email",
+                    "Email_Placeholder":"Enter Email",
+                    "Select_Role":"Select Role",
+                    "Select_Gender":"Select Gender",
+                    "Phone":"Phone",
+                    "Phone_Placeholder":"Enter Phone number"
+                },
+                "Edit":{
+                    "header":"Edit User Details",
+                    "":""
+                }
+            }
+        },
+        "Basic_Data":{
+            "Nationality":{
+                "name":"Nationality",
+                "table_headers":{
+                    "header":"Nationality Type List",
+                    "Name":"Name",
+                    "Order":"Order",
+                    "Status":"Status"
+                },
+                "Create":{
+                    "header":"Create Nationality",
+                    "Name":"Nationality Name",
+                    "Name_Placeholder":"Enter Nationality Name",
+                    "Order":"Order",
+                    "Order_Placeholder":"Enter Order"
+                },
+                "Edit":{
+                    "header":"Edit Nationality Details"
+                }
+            },
+            "Salary_Config":{
+                "name":"Salary Config",
+                "table_headers":{
+                    "header":"Salary Configurations",
+                    "basic":"Basic",
+                    "housing":"Housing",
+                    "transportation":"Transportation",
+                    "other":"Other",
+                    "status":"Status"
+                },
+                "Create":{
+                    "header":"Create a Salary Configuration"
+                },
+                "Edit":{
+                    "header":"Edit Salary Configuration"
+                }
+            },
+            "Leave_Type":{
+                "name":"Leave Type",
+                "table_headers":{
+                    "header":"Leave Types",
+                    "type":"Type",
+                    "days":"Days",
+                    "status":"Status"
+                },
+                "Create":{
+                    "header":"Create a new Leave Type",
+                    "type_placeholder":"Enter leave type",
+                    "days_placeholder":"Enter total days"
+                },
+                "Edit":{
+                    "header":"Edit Leave Type"
+                }
+            },
+            "Education_Levels":{
+				"name":"Education Levels",
+				"table_headers":{
+					"header":"Education Level Types",
+					"code":"Code",
+					"name":"Name",
+					"status":"Status"
+				},
+				"Create":{
+					"header":"Create Education Level Type",
+					"code_placeholde":"Enter Education Level Code",
+					"name_placeholder":"Enter Education Level Name"
+				},
+				"Edit":{
+                    "header":"Edit Education Level Type",
+                    "Description":"Description"
+				}
+            },
+            "Departments":{
+                "name":"Departments",
+                "table_headers":{
+                    "header":"Departments",
+                    "code":"Code",
+                    "name":"Name",
+                    "status":"Status"
+                },
+                "Create":{
+                    "header":"Create A new Department",
+                    "name_placeholder":"Enter Department Name"
+                },
+                "Edit":{
+                    "header":"Edit Department",
+                    "Description":"Description"
+                }
+            },
+            "Employment_Types":{
+				"name":"Employment Types",
+				"table_headers":{
+                    "header":"Employment Types",
+                    "code":"Code",
+                    "name":"Name",
+                    "description":"Description",
+                    "status":"Status"
+                },
+                "Create":{
+                    "header":"Create a new Employment Type",
+                    "name_placeholder":"Enter Employment Type Name"
+                },
+                "Edit":{
+                    "header":"Edit Employment Type"
+                }
+            },
+            "Insurance_Providers":{
+                "name":"Insurance Providers",
+                "table_headers":{
+                    "header":"Insurance Providers",
+                    "name":"Name",
+                    "address":"Address",
+                    "phone":"Phone",
+                    "status":"Status"
+                },
+                "Create":{
+                    "header":"Create a new Insurance Provider"
+                },
+                "Edit":{
+                    "header":"Edit Insurance Provider"
+                }
+            },
+            "Job_Titles":{
+                "name":"Job Titles",
+                "table_headers":{
+                    "header":"Job Titles",
+                    "name":"Name",
+                    "description":"Description",
+                    "status":"Status",
+                    "order":"Order"
+                },
+                "Create":{
+                    "header":"Create a Job Title",
+                    "name_placeholder":"Enter new job title name",
+                    "order_placeholder":"Enter sort order",
+                    "description_placeholder":"Enter Description"
+                },
+                "Edit":{
+                    "header":"Edit Job Title"
+                }
+            },
+            "Holidays":{
+                "name":"Holidays",
+                "table_headers":{
+                    "header":"Holidays",
+                    "year":"Year",
+                    "month":"Month",
+                    "from":"From",
+                    "to":"To",
+                    "status":"Status"
+                },
+                "Create":{
+                    "header":"Create a Holiday type"
+                },
+                "Edit":{
+                    "header":"Edit Holiday type"
+                }
+            },
+            "Time_Schedules":{
+                "name":"Time Schedules",
+                "table_headers":{
+                    "header":"Time Schedules",
+                    "in":"In",
+                    "out":"Out",
+                    "shift":"Shift",
+                    "status":"Status"
+                },
+                "Create":{
+                    "header":"Create a Time Schedule type"
+                },
+                "Edit":{
+                    "header":"Edit Time Schedule type"
+                }
+            },
+            "Branches":{
+                "name":"Branches",
+                "table_headers":{
+                    "header":"Branches",
+                    "code":"Code",
+                    "name":"Name",
+                    "address":"Address",
+                    "contact":"Contact"
+                },
+                "Create":{
+                    "header":"Create Branch",
+                    "code_placeholder":"Enter branch Level Code",
+                    "name_placeholder":"Enter branch Name",
+                    "address_placeholder":"Enter branch address",
+                    "contact_placeholder":"Enter Branch contact"
+                },
+                "Edit":{
+                    "header":"Edit Branch"
+                }
+            },
+            "Appraisal_Questions":{
+                "name":"Appraisal Questions",
+                "table_headers":{
+                    "header":"Appraisal Questions",
+                    "question":"Question",
+                    "status":"Status"
+                },
+                "Create":{
+                    "header":"Create Appraisal Question",
+                    "question_placeholder":"Enter New Question"
+                },
+                "Edit":{
+                    "header":"Edit Appraisal Question"
+                }
+            }
+        },
+        "Employees":{
+            "list":{
+                "name":"Employees",
+                "table_headers":{
+                    "header":"Employees",
+                    "id":"ID",
+                    "first_name":"First Name",
+                    "first_name_placeholder":"Enter First Name",
+                    "last_name":"Last Name",
+                    "last_name_placeholder":"Enter Last Name",
+                    "gender":"Gender",
+                    "join_date":"Join Date",
+                    "type":"Type",
+                    "dob":"Date Of Birth",
+                    "marital_status":"Marital Status",
+                    "nationality":"Nationality",
+                    "country":"Country of Residence",
+                    "status":"Status"
+                }
+            },
+            "Create":{
+                "header":"Create new Employee",
+                "personal":{
+                    "name":"Personal Info",
+                    "work":{
+                        "name":"Work Contact Info",
+                        "email":"Enter Work Email",
+                        "email_placeholder":"Enter work Email",
+                        "phone":"Enter Work Phone",
+                        "phone_placeholder":"Enter work Phone"
+                    },
+                    "personal_contact_info":{
+                        "name":"Personal Contact Info",
+                        "email":"Personal Email",
+                        "email_placeholder":"Enter personal Email",
+                        "home_phone":"Home Phone Number",
+                        "home_phone_placeholder":"Enter Home Phone number",
+                        "emergency_phone":"Emergency Phone Number",
+                        "emergency_phone_placeholder":"Enter emergency phone number",
+                        "address":"Address",
+                        "address_placeholder":"Enter Address"
+                    }
+                },
+                "employment":{
+                    "name":"Employment Details",
+                    "Employment_Type":"Employment Type"
+                },
+                "user":{
+                    "name":"User Details"
+                }
+            },
+            "Edit":{
+                "header":"Edit Employee details"
+            }
+        },
+        "Help":{
+            "Dashboard":{
+
+            }
+        }
+    }
+}

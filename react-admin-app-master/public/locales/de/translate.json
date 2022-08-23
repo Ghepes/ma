@@ -1,0 +1,50 @@
+{
+    "translations": {
+      "Language": "Sprache",
+      "Home": {
+        "name": "Startseite",
+        "company_name": "Firmenname",
+        "text1": "Bessere Lösungen für Ihr Unternehmen",
+        "text2": "Aufdecken des Werts Ihrer Mitarbeiter durch innovative Technologie",
+        "button_text": "Erste Schritte",
+        "Key_Features": {
+          "name": "Hauptmerkmale",
+          "para1": "Wie Ihr Unternehmen die Personalabteilung verwaltet, kann sehr individuell sein, aber es gibt sie Bestimmte wichtige Funktionen und Merkmale, nach denen Sie in jeder Lösung suchen sollten, um",
+          "keys": {
+            "1": "Verwaltung von Mitarbeiterinformationen",
+            "2": "Personalbeschaffung / ATS (Bewerber-Tracking-System)",
+            "3": "Startseite0"
+          },
+          "para2": "Startseite1",
+          "button_text": "Startseite2",
+          "card1": {
+            "title": "Startseite3",
+            "body": "Startseite4"
+          },
+          "card2": {
+            "title": "Startseite5",
+            "body": "Startseite6"
+          },
+          "card3": {
+            "title": "Startseite7",
+            "body": "Startseite8"
+          },
+          "card4": {
+            "title": "Startseite9",
+            "body": "Firmenname0"
+          }
+        },
+        "text3": "Firmenname1",
+        "text4": "Firmenname2",
+        "text5": "Firmenname3",
+        "section1": {
+          "title": "Firmenname4",
+          "body": "Firmenname5"
+        },
+        "section2": {
+          "title": "Firmenname6",
+          "body": "Firmenname7"
+        }
+      }
+    }
+  }

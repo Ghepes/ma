@@ -1,0 +1,28 @@
+div#v-pills-tab {
+    float: left;
+    overflow: hidden;
+    width: 12%;
+    text-align: center;
+    margin-right: 20px;
+}
+.doc{
+    width:80%;
+    float:left;
+}
+.doc img{
+    width:100%;
+}
+.doc p{
+    font-size: 17px;
+   
+}
+
+.doc h3{
+    color:#28a745;
+}
+@media screen and (max-width: 720px) {
+    div#v-pills-tab {
+       float:none;
+       width:100%;
+   }
+}

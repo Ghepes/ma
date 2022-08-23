@@ -1,0 +1,141 @@
+.selectTag {
+  -webkit-tap-highlight-color: rgba(0, 0, 21, 0);
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  -webkit-font-smoothing: antialiased;
+  --primary: #321fdb;
+  --secondary: #ced2d8;
+  --success: #2eb85c;
+  --info: #39f;
+  --warning: #f9b115;
+  --danger: #e55353;
+  --light: #ebedef;
+  --dark: #636f83;
+  --color: #3c4b64;
+  box-sizing: border-box;
+  margin: 0;
+  font-family: inherit;
+  text-transform: none;
+  display: block;
+  width: 100%;
+  height: calc(1.5em + 0.75rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5;
+  background-clip: padding-box;
+  border: 1px solid;
+  color: #768192;
+  background-color: #fff;
+  border-color: #d8dbe0;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.table-sm th, .table-sm td {
+  padding: 0.3rem;
+  text-align: center;
+}
+
+questions_class{
+  padding: 0.3rem;
+  text-align: Left;
+}
+
+.c-sidebar {
+  color: #ebedef;
+  background: #021636;
+}
+/* html:not([dir="rtl"]) .c-sidebar-nav-icon:first-child {
+  margin-left: 0;
+}
+html:not([dir="ltr"]) .c-sidebar-nav-icon:first-child {
+  margin-left: -1rem;
+} */
+/* html:not([dir="rtl"]) .c-sidebar-nav-dropdown-toggle::after {
+    margin-left: 0px;
+} */
+.c-sidebar-nav-dropdown-toggle::after {
+  display: none;
+  flex: 0 1 8px;
+  height: 8px;
+  content: "";
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: transform 0.3s;
+}
+
+html:not([dir="ltr"]) .c-sidebar-nav-dropdown-toggle::after {
+  margin-left: 0px;
+}
+html:not([dir="rtl"]) .c-sidebar-nav-icon:first-child {
+  margin-left: 0;
+}
+
+html[lang=ar] {
+  direction: rtl;
+ }
+ 
+html[lang=en] {
+direction: ltr;
+}
+
+language-class{
+  -webkit-tap-highlight-color: rgba(0,0,21,0);
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  --font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+  --primary: #321fdb;
+  --secondary: #ced2d8;
+  --success: #2eb85c;
+  --info: #39f;
+  --warning: #f9b115;
+  --danger: #e55353;
+  --light: #ebedef;
+  --dark: #636f83;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  font-family: sans-serif;
+  transition: all .2s ease-in-out 0s!important;
+  max-width: 250px;
+  min-width: 120px;
+  cursor: pointer;
+  border-bottom: 0;
+  overflow: hidden;
+  text-overflow: clip;
+  white-space: nowrap;
+  box-sizing: border-box;
+  font-size: 14px !important;
+  text-decoration: none;
+  text-align: center!important;
+  height: 42px;
+  line-height: 42px;
+  font-weight: normal!important;
+  padding: 0 20px;
+  display: block;
+  background-color: rgb(255,255,255) !important;
+  color: rgb(0,0,0) !important;
+}
+
